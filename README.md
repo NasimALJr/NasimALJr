@@ -2,7 +2,7 @@
 - 👀 I’m interested in problem solving and computer hardware
 - 🌱 I’m currently learning basic problem solving and basic computer device
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 email: nasimnajs@gmail.com or 2103004@student.ruat.ac.bd
 - 😄 Pronouns: he
 - ⚡ Fun fact: my interested can be changed any time :)
 

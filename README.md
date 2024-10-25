@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @NasimALJr
-- 👀 I’m interested in problem solving and computer hardware
-- 🌱 I’m currently learning basic problem solving, web development and basic computer device
-- 📫 email: nasimnajs@gmail.com or 2103004@student.ruat.ac.bd
-- 😄 Pronouns: he
-- ⚡ Fun fact: my interested can be changed any time :)
+### Hi, I’m @NasimALJr 👋
+
+👀 **Exploring the world of Computer Science**  
+🌱 Currently learning **problem-solving**, **web development**, and **computer hardware basics**  
+📫 Reach me at:  
+📧 **Personal:** nasimnajs@gmail.com  
+📧 **Academic:** 2103004@student.ruat.ac.bd  
+😄 **Pronouns:** he/him  
+⚡ **Fun fact:** My interests might shift at any time, so stay tuned! 😉
+
 
 <!---
 NasimALJr/NasimALJr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
